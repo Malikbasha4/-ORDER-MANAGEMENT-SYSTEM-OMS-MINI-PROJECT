@@ -1,0 +1,3 @@
+item_id,invoice_number,unit_price,discount,quantity,tax,total_amount
+1,1,10.99,0.5,10,1.5,108.9
+2,2,15.99,1,5,2,74.95

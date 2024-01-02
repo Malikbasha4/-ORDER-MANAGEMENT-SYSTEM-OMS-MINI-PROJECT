@@ -1,0 +1,6 @@
+item_id,ItemName,SupplierID,QuantityInStock,UnitPrice
+1,Milk,2,1000,2.5
+2,Cheese,1,500,5.75
+3,Spices Mix,3,300,3.99
+4,Organic Vegetables,4,800,1.75
+5,Whole Wheat Flour,5,1000,4.25
